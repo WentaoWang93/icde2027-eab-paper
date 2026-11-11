@@ -1,0 +1,1 @@
+The main paper and repository landing documentation were updated for submission. The artifact subtree in the full release is an unchanged copy of the historical reproducibility artifact. Consult its original MANIFEST.json for integrity verification. Repository source files alone do not contain the data; download the full release archive.

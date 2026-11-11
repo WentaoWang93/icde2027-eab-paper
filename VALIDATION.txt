@@ -1,0 +1,8 @@
+Packaging verification (2026-11-11)
+
+PASS: all 3,454 entries in the original artifact SHA-256 manifest matched after merging all five source parts.
+PASS: the short released-score replay independently recomputed 3,231 AP values across 315 historical cells, with maximum AP error 0.0; 1,890 weighted-AP checks, paired/cross-fit algebra and event aggregation also passed.
+
+These checks do not constitute a new full retraining, timing replication or complete raw-source audit. The complete default run_all.sh replay was launched separately; do not interpret a running or incomplete log as a pass. No claim is made here that all 435 fits were rerun during packaging. Original scientific failures and refit limitations remain in the retained results.
+
+The archival artifact files are copied unchanged from the five original full archives. Packaging excludes the outer private review instructions, correspondence, author task lists and manuscript-review material. Historic hash-bound plans remain unchanged, including their original wording and identifiers.
